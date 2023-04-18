@@ -10,7 +10,7 @@
   <name>docker-maven-plugin</name>
   <description>Docker Maven Plugin</description>
 
-  <url>http://github.com/fabric8io/docker-maven-plugin</url>
+  <url>http://github.com/atlassian-forks/docker-maven-plugin</url>
 
   <licenses>
     <license>
@@ -44,15 +44,15 @@
   </prerequisites>
 
   <scm>
-    <connection>scm:git:git://github.com/fabric8io/docker-maven-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/fabric8io/docker-maven-plugin.git</developerConnection>
+    <connection>scm:git:git://github.com/atlassian-forks/docker-maven-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/atlassian-io/docker-maven-plugin.git</developerConnection>
     <tag>HEAD</tag>
-    <url>git://github.com/fabric8io/docker-maven-plugin.git</url>
+    <url>git://github.com/atlassian-forks/docker-maven-plugin.git</url>
   </scm>
 
   <issueManagement>
     <system>GitHub</system>
-    <url>https://github.com/fabric8io/docker-maven-plugin/issues/</url>
+    <url>https://github.com/atlassian-forks/docker-maven-plugin/issues/</url>
   </issueManagement>
 
   <distributionManagement>
